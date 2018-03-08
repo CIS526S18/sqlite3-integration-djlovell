@@ -1,0 +1,23 @@
+{
+  "name": "sqlite3-integration-djlovell",
+  "version": "0.1.0",
+  "description": "A simple dynamic server implementation.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIS526S18/sqlite3-integration-djlovell.git"
+  },
+  "author": "Daniel J. Lovell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CIS526S18/sqlite3-integration-djlovell/issues"
+  },
+  "homepage": "https://github.com/CIS526S18/sqlite3-integration-djlovell#readme",
+  "dependencies": {
+    "sqlite3": "3.1.13"
+  }
+}
